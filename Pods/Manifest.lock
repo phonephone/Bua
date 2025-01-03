@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.7.1)
+  - IQKeyboardManagerSwift (6.5.12)
+  - ProgressHUD (13.7.2)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+  - SideMenuSwift (2.0.9)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - ProgressHUD
+  - SDWebImage
+  - SideMenuSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - ProgressHUD
+    - SDWebImage
+    - SideMenuSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  IQKeyboardManagerSwift: 371b08cb39664fb56030f5345c815a4ffc74bbc0
+  ProgressHUD: 093d24ca970f191744017bee2649e37d0cd1c5b9
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+  SideMenuSwift: 39f1922e225da4aaa8b16591037a929defe960c9
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 256624d9a0bbaa7b8abfc7d3432a5182c9375964
+
+COCOAPODS: 1.15.2

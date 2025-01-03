@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>domainName</key>
+	<string>https://rmcec.asiacement.co.th/</string>
+	<key>apiPath</key>
+	<string>apiapp/v1/</string>
+	<key>apiBearer</key>
+	<string>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL3JtY2VjLmFzaWFjZW1lbnQuY28udGgvIiwic3ViIjoiQVBJIEtFWSBUTUEiLCJpYXQiOjE3MjY2NTA1MTh9.XytluInktKyunfAAcp869rnijJVec28BAP74wu-hRh8</string>
+</dict>
+</plist>
